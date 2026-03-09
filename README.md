@@ -1,4 +1,4 @@
-# 📊 Sales Report Analysis Dashboard
+# 📊 Blinkit Sales Report Analysis Dashboard
 
 ## 🧠 Project Overview
 This project analyzes company sales data to evaluate performance, identify trends, and uncover key business insights using data visualization and analytical techniques.
